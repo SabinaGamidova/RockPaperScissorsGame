@@ -7,11 +7,15 @@
 Убедитесь, что у вас установлен Ruby.
 Установите библиотеки Tk и Gosu, выполнив следующие команды:
 
-**gem install tk
-gem install gosu**
+```bash
+gem install tk
+gem install gosu
+```
 
 Запустите игру, выполните:
-**ruby имя_файла.rb**
+```bash
+ruby SimpleGame.rb
+```
 
 **Инструкции по игре**
 1) Откройте игру.
