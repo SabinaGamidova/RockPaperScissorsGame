@@ -112,7 +112,7 @@ buttonFrame = TkFrame.new(root) do
 end
 
 
-if !ARGV.empty? && GameLogic.validationForGameOperands(ARGV[0]) && GameLogic.validationForGameOperands(ARGV[1])
+if !ARGV.empty? && GameLogic.validationForGameOperands(ARGV[0]) && GameLogic.validationForGameOperands(ARGV[1]) && ARGV.length() == 2
     playerAnswerLabel.value = ARGV[0]
     computerAnswerLabel.value = ARGV[1]
     resultAnswerLabel.value = GameLogic.answer(playerAnswerLabel.value, computerAnswerLabel.value)
