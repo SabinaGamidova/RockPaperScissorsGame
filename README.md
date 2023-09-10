@@ -32,7 +32,7 @@ ruby SimpleGame.rb Stone Paper
 * **"WinSound.mp3" and "LoseSound.mp3:"** Sound files for winning and losing.
 
 ## Conclusion
-Enjoy playing "Rock, Paper, Scissors"!
+I hope you enjoy playing my realisation of "Rock, Paper, Scissors"!
 <br>
 <br>
 
@@ -74,4 +74,4 @@ ruby SimpleGame.rb Stone Paper
 * **"WinSound.mp3" и "LoseSound.mp3"**: Звуковые файлы для выигрыша и проигрыша.
 
 ## Завершение
-Наслаждайтесь игрой "Камень, Ножницы, Бумага"!
+Надеюсь, вам понравится моя реализация игры "Камень, Ножницы, Бумага"!
